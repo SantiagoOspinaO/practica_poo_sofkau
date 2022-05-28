@@ -1,28 +1,28 @@
 # Cosas específicas del usuario
-.idea / ** / espacio de trabajo.xml
-.idea / ** / tareas.xml
-.idea / ** / uso.estadísticas.xml
-.idea / ** / diccionarios
-.idea / ** / estantería
+.idea/**/espacio de trabajo.xml
+.idea/**/tareas.xml
+.idea/**/uso.estadísticas.xml
+.idea/**/diccionarios
+.idea/**/estante
 
 # Específico del usuario de AWS
-.idea / ** / aws.xml
+.idea/**/aws.xml
 
 # archivos generados
-.idea / ** / contentModel.xml
+.idea/**/contentModel.xml
 
 # Archivos confidenciales o de alta rotación
-.idea / ** / fuentes de datos /
-.idea / ** / fuentes de datos.ids
-.idea / ** / fuentes de datos.local.xml
-.idea / ** / sqlDataSources.xml
-.idea / ** / dinámico.xml
-.idea / ** / uiDesigner.xml
-.idea / ** / dbnavigator.xml
+.idea/**/fuentes de datos/
+.idea/**/fuentes de datos.ids
+.idea/**/fuentes de datos.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dinámica.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
 
-#Gradle _
-.idea / ** / gradle.xml
-.idea / ** / bibliotecas
+#Gradle
+.idea/**/gradle.xml
+.idea/**/bibliotecas
 
 # Gradle y Maven con importación automática
 # Al usar Gradle o Maven con importación automática, debe excluir los archivos del módulo,
@@ -38,28 +38,28 @@
 # *.ipr
 
 # CHacer
-cmake-build- * /
+cmake-construir-*/
 
 # Complemento Mongo Explorer
-.idea / ** / mongoSettings.xml
+.idea/**/mongoConfiguraciones.xml
 
 # Formato de proyecto basado en archivos
-* .iws
+*.iws
 
-#IntelliJ _
-fuera /
+#IntelliJ
+afuera/
 
 # Complemento mpeltonen/sbt-idea
-.idea_modules /
+.idea_modules/
 
 # Complemento JIRA
 atlassian-ide-plugin.xml
 
 # Complemento de Clojure cursiva
-.idea / replstate.xml
+.idea/replstate.xml
 
 # Complemento SonarLint
-.idea / sonarlint /
+.idea/sonarlint/
 
 # Complemento Crashlytics (para Android Studio e IntelliJ)
 com_crashlytics_export_strings.xml
@@ -68,42 +68,44 @@ crashlytics-build.propiedades
 tela.propiedades
 
 # Cliente de reposo basado en editor
-.idea / httpSolicitudes
+.idea/httpRequests
 
 # Android studio 3.1+ archivo de caché serializado
-.idea / cachés / build_file_checksums.ser
+.idea/caches/build_file_checksums.ser
 
-# ## Intellij+todos los parches ###
+### Intellij+todos los parches ###
 # Ignorar todo menos la configuración de estilo de código y ejecutar configuraciones
 # que se supone que se comparten dentro de los equipos.
 
-.idea / *
+.ocurrencia/*
 
-! .idea / estilos de código
-! .idea / runConfiguraciones
+!.idea/estilos de código
+!.idea/runConfiguraciones
 
-# ## Java ###
+### Java ###
 # Archivo de clase compilado
-* .clase
+*.clase
 
-# archivo de registro
-* .registro
+# Archivo de registro
+*.Iniciar sesión
 
 # Archivos BlueJ
-* .ctxt
+*.ctxt
 
 # Herramientas móviles para Java (J2ME)
-.mtj.tmp /
+.mtj.tmp/
 
 # Archivos del paquete #
-* .jar
-* .guerra
-* .nar
-* .oreja
-* .zip
-* .tar.gz
-* .rar
+*.frasco
+*.guerra
+*.nar
+*.oído
+*.Código Postal
+*.tar.gz
+*.rar
 
 # registros de fallas de la máquina virtual, consulte http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid *
-repetición_pid *
+hs_err_pid*
+repetición_pid*
+
+# Fin de https://www.toptal.com/developers/gitignore/api/java,intellij+all
