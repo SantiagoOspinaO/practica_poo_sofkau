@@ -1,6 +1,4 @@
 
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 e
 5src/main/java/com/sofka/practica/interfaces/IDog.java,2\b\2b85ed81de026e33f581eb0a88c5b3915ea5bf6d
 e

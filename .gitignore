@@ -79,8 +79,8 @@ tela.propiedades
 
 .idea / *
 
-!.idea / estilos de código
-!.idea / runConfiguraciones
+! .idea / estilos de código
+! .idea / runConfiguraciones
 
 # ## Java ###
 # Archivo de clase compilado
