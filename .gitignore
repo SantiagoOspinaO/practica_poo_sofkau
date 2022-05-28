@@ -1,0 +1,109 @@
+# Cosas específicas del usuario
+.idea / ** / espacio de trabajo.xml
+.idea / ** / tareas.xml
+.idea / ** / uso.estadísticas.xml
+.idea / ** / diccionarios
+.idea / ** / estantería
+
+# Específico del usuario de AWS
+.idea / ** / aws.xml
+
+# archivos generados
+.idea / ** / contentModel.xml
+
+# Archivos confidenciales o de alta rotación
+.idea / ** / fuentes de datos /
+.idea / ** / fuentes de datos.ids
+.idea / ** / fuentes de datos.local.xml
+.idea / ** / sqlDataSources.xml
+.idea / ** / dinámico.xml
+.idea / ** / uiDesigner.xml
+.idea / ** / dbnavigator.xml
+
+#Gradle _
+.idea / ** / gradle.xml
+.idea / ** / bibliotecas
+
+# Gradle y Maven con importación automática
+# Al usar Gradle o Maven con importación automática, debe excluir los archivos del módulo,
+# ya que se volverán a crear y pueden causar abandono. Descomente si usa
+# importación automática.
+# .idea/artefactos
+# .idea/compilador.xml
+# .idea/jarRepositories.xml
+# .idea/modulos.xml
+# .idea/*.iml
+# .idea/módulos
+# *.iml
+# *.ipr
+
+# CHacer
+cmake-build- * /
+
+# Complemento Mongo Explorer
+.idea / ** / mongoSettings.xml
+
+# Formato de proyecto basado en archivos
+* .iws
+
+#IntelliJ _
+fuera /
+
+# Complemento mpeltonen/sbt-idea
+.idea_modules /
+
+# Complemento JIRA
+atlassian-ide-plugin.xml
+
+# Complemento de Clojure cursiva
+.idea / replstate.xml
+
+# Complemento SonarLint
+.idea / sonarlint /
+
+# Complemento Crashlytics (para Android Studio e IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.propiedades
+crashlytics-build.propiedades
+tela.propiedades
+
+# Cliente de reposo basado en editor
+.idea / httpSolicitudes
+
+# Android studio 3.1+ archivo de caché serializado
+.idea / cachés / build_file_checksums.ser
+
+# ## Intellij+todos los parches ###
+# Ignorar todo menos la configuración de estilo de código y ejecutar configuraciones
+# que se supone que se comparten dentro de los equipos.
+
+.idea / *
+
+!.idea / estilos de código
+!.idea / runConfiguraciones
+
+# ## Java ###
+# Archivo de clase compilado
+* .clase
+
+# archivo de registro
+* .registro
+
+# Archivos BlueJ
+* .ctxt
+
+# Herramientas móviles para Java (J2ME)
+.mtj.tmp /
+
+# Archivos del paquete #
+* .jar
+* .guerra
+* .nar
+* .oreja
+* .zip
+* .tar.gz
+* .rar
+
+# registros de fallas de la máquina virtual, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid *
+repetición_pid *
